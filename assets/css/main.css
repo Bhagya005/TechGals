@@ -19,17 +19,20 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    
  
 }
 
 html{
     font-size: 10px;
+    
 }
 
 
 body{
     font-size: 1.6rem;
     font-family: var(--font-poppins);
+    background: radial-gradient(circle at 10% 20%, rgb(116, 203, 199) 0%, rgb(220, 246, 200) 90%);
    
 }
 
